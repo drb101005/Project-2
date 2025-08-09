@@ -31,16 +31,20 @@ In this project:
 ## 📷 Visuals
 
 ### Accuracy vs k
-![Accuracy vs k](accuracy_plot.png)
+<img width="600" height="400" alt="accuracy_plot" src="https://github.com/user-attachments/assets/14dbca5a-6ec2-4cb5-8cd0-a18fedd85201" />
+
 
 ### Normalized Confusion Matrix
-![Confusion Matrix](normalized_confusion_matrix.png)
+<img width="800" height="800" alt="normalized_confusion_matrix" src="https://github.com/user-attachments/assets/eac40984-c926-4566-835e-c037d290b519" />
+
 
 ### Classification Report
-![Classification Report](Screenshot%202025-08-10%20003410.png)
+<img width="654" height="403" alt="Screenshot 2025-08-09 190557" src="https://github.com/user-attachments/assets/2d144bfc-1ae1-43ca-ae75-2d573eaa31df" />
+
 
 ### Sample Predictions
-![Sample Predictions](real_test_samples.png)
+
+<img width="1000" height="500" alt="real_test_samples" src="https://github.com/user-attachments/assets/332e87bc-7529-45b5-be8c-264b3ea6eaf8" />
 
 ---
 
