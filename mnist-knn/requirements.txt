@@ -1,8 +1,0 @@
-﻿numpy
-scikit-learn
-matplotlib
-pillow
-joblib
-keras
-tensorflow
-jupyterlab
